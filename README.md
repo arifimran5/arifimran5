@@ -38,13 +38,7 @@
 <br />
 <br />
 
-### stats:
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Arif's GitHub Stats" src="https://github-readme-stats.arifimran5.vercel.app/api?username=arifimran5&show_icons=true&hide_border=true" />
-
-</details>
 
 
 
