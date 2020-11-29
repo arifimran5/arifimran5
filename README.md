@@ -35,7 +35,10 @@
 [<img align="left" alt="InstagramArif | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+<br />
+<br />
 
+### stats:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
