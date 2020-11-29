@@ -6,7 +6,7 @@
 - 🍊 I'm consistenly learning new things and technologies
 - ☕ My 2020 goal was to learn all the fundamentals and do basic projects 
 - 🍺 My 2021 goal to work fully as a professional developer, contribute to open source projects, Freelancing and Competitive Programming.
-- 🍗 Genral facts: I love Music, Movies, Photography, Designing and playing Video Games
+- 🍗 Genral facts: I love Music, Movies, Photography:[checkout here] [instagram], Designing and playing Video Games
 
 <br />
 
