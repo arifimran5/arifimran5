@@ -43,6 +43,6 @@
 
 
 
-[twitter]: https://twitter.com/AIcrazy5
+[twitter]: https://twitter.com/aidevv_in
 [linkedin]: https://www.linkedin.com/in/arif-imran-8292801b5/
 [instagram]: https://www.instagram.com/roamrom_/
