@@ -9,7 +9,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools🛠:
 <hr />
 
 - Python
@@ -22,7 +22,7 @@
 
 
 
-### Connect with me:
+### Connect with me📲:
 <hr />
 
 - [Twitter](https://twitter.com/aidevv_in)
