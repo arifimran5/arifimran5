@@ -2,10 +2,7 @@
 
 ## I'm a student,a Developer, and a Problem Solver !
 
-- 🌳 I'm currently learning Full Stack Web Development
-- 🍊 I'm consistenly learning new things and technologies
-- ☕ My 2020 goal was to learn all the fundamentals and do basic projects 
-- 🍺 My 2021 goal to work fully as a professional developer, contribute to open source projects, Freelancing and Competitive Programming.
+- 🌳 I'm currently learning Full Stack Web Development with React and Django.
 - 🍗 Genral facts: I love Music, Movies, Photography([instagram]), Designing and playing Video Games
 
 <br />
@@ -21,12 +18,6 @@
 <br />
 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/thni2w3zxrw979k8zbyrzp8ly?si=a9l5IVKzQpa6bidaQTNqQQ)
-
-
-<br />
 
 
 ### Connect with me:
