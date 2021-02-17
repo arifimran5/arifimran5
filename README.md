@@ -8,12 +8,12 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="HTML5" width="26px" src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-0.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="C++" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/74/74897.svg" />]
+- Python
+- HTML
+- CSS
+- JS
+- React
+- Git
 
 <br />
 
