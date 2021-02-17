@@ -25,18 +25,8 @@
 ### Connect with me:
 <hr />
 
-- [twitter]
-- [linkedin]
-- [instagram]
+- [Twitter](https://twitter.com/aidevv_in)
+- [Linkedin](https://www.linkedin.com/in/arifimran5/)
+- [Instagram](https://www.instagram.com/roamrom_/)
 
 <br />
-<br />
-<br />
-
-
-
-
-
-[twitter]: https://twitter.com/aidevv_in
-[linkedin]: https://www.linkedin.com/in/arifimran5/
-[instagram]: https://www.instagram.com/roamrom_/
