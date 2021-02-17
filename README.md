@@ -9,9 +9,7 @@
 
 ### Languages and Tools:
 - Python
-- HTML
-- CSS
-- JS
+- HTML, CSS , JS
 - React
 - Git
 
