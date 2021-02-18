@@ -5,7 +5,7 @@
 
 - 🍟 Front-end React developer
 - 🌳 I'm currently learning Full Stack Web Development with React and Django.
-- 🍗 Genral facts: I love Music, Movies, [Photography](instagram), Designing and playing Video Games
+- 🍗 Genral facts: I love Music, Movies, [Photography](https://www.instagram.com/roamrom_/), Designing and playing Video Games
 
 <br />
 
