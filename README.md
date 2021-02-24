@@ -26,7 +26,6 @@
 
 
 ### Connect with me📲:
-<hr />
 
 <a href="https://twitter.com/aidevv_in">
   <img align="left" alt="Arif Imran Twitter| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
