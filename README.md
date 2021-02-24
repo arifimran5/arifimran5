@@ -1,4 +1,4 @@
-![cover pic](https://github.com/arifimran5/arifimran5/blob/master/githubProfile.png)
+![cover pic](https://github.com/arifimran5/arifimran5/blob/master/githubProfile2.png)
 ### Hi there, I'm Arif Imran 🖐
 
 ## I'm a student,a Developer, and a Problem Solver !
