@@ -1,5 +1,5 @@
 ![cover pic](https://github.com/arifimran5/arifimran5/blob/master/githubProfile2.png)
-# Hi there, I'm Arif Imran 🖐
+# Hi there, I'm Arif Imran 🖐 
 
 ## I'm a student,a Developer, and a Problem Solver !
 
@@ -25,8 +25,10 @@
 ### Connect with me📲:
 <hr />
 
-- [Twitter](https://twitter.com/aidevv_in)
-- [Linkedin](https://www.linkedin.com/in/arifimran5/)
-- [Instagram](https://www.instagram.com/roamrom_/)
+> [Twitter](https://twitter.com/aidevv_in)
+> <br />
+> [Linkedin](https://www.linkedin.com/in/arifimran5/)
+> <br />
+> [Instagram](https://www.instagram.com/roamrom_/)
 
 <br />
