@@ -8,7 +8,6 @@
 - 🍗 Genral facts: I love Music, Movies, [Photography](https://www.instagram.com/roamrom_/), Designing and playing Video Games
 <br/>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br />
 
