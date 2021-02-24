@@ -36,5 +36,11 @@
   <img align="left" alt="Arif Imran Insta" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 
+<br/>
+
+## My latest tweets :🕊
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=aidevv_in)](https://github.com/gazf/github-readme-twitter)
+
 
 <br />
