@@ -23,9 +23,9 @@
 
 <br />
 
+### Random Jokes:🤣
 
-
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## Connect with me📲:
 
