@@ -47,8 +47,3 @@
 <br/>
 <br/>
 
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=aidevv_in&show_border=off&show_retweet=off&layout=wide)](https://github.com/gazf/github-readme-twitter)
-
-
-<br />
