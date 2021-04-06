@@ -4,7 +4,7 @@
 ## I'm a student,a Developer, and a Problem Solver !
 
 - 🍟 Front-end React developer
-- 🌳 I'm currently learning Full Stack Web Development with React and Django.
+- 🌳 I'm currently learning Full Stack Web Development with React and NodeJS
 - 🍗 Genral facts: I love Music, Movies, [Photography](https://www.instagram.com/roamrom_/), Designing and playing Video Games
 <br/>
 
