@@ -1,11 +1,11 @@
-![cover pic](https://github.com/arifimran5/arifimran5/blob/master/githubProfile2.png)
+![cover pic](https://github.com/arifimran5/arifimran5/blob/master/githubProfile.png)
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Arif Imran 
 
 ## I'm a student,a Developer, and a Problem Solver !
 
 - 🍟 Front-end React developer
 - 🌳 I'm currently learning Full Stack Web Development with React and NodeJS
-- 🍗 Genral facts: I love Music, Movies, [Photography](https://www.instagram.com/roamrom_/), Designing and playing Video Games
+- 🍗 Genral facts: I love Music, Movies, [Photography](https://www.instagram.com/arifimran_ai/), Designing and playing Video Games
 <br/>
 
 
@@ -39,7 +39,7 @@
 <a href="https://www.linkedin.com/in/arifimran5/" target="_blank">
   <img align="left" alt="Arif Imran LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/roamrom_/" target="_blank">
+<a href="https://www.instagram.com/arifimran_ai/" target="_blank">
   <img align="left" alt="Arif Imran Insta" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 
