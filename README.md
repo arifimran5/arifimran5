@@ -25,13 +25,13 @@
 
 ## Connect with me📲:
 
-<a href="https://twitter.com/aidevv_in" target="_blank">
+<a href="https://twitter.com/aidevv_in">
   <img align="left" alt="Arif Imran Twitter| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/arifimran5/" target="_blank">
+<a href="https://www.linkedin.com/in/arifimran5/">
   <img align="left" alt="Arif Imran LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/arifimran_ai/" target="_blank">
+<a href="https://www.instagram.com/arifimran_ai/">
   <img align="left" alt="Arif Imran Insta" width="22px" src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 
