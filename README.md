@@ -5,8 +5,7 @@
 
 - 🍟 Front-end React/NextJS developer
 - 🌳 I'm currently learning Full Stack Web Development with React/NextJS and NodeJS
-- 🔥 I also love working with TailwindCSS, ChakraUI, Prisma ORM, PostgreSQL/MySQL
-- 🍗 Genral facts: I love Music, Movies, [Photography](https://www.instagram.com/arifimran_ai/), Designing and playing Video Games
+- 🔥 Love TailwindCSS, ChakraUI, Prisma ORM, Supabase
 <br/>
 
 
