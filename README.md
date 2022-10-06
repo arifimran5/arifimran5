@@ -1,5 +1,5 @@
 <img src="https://images.unsplash.com/photo-1641326038434-01b0217c18f1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=80"/>
-<h1 align="center">Hi✌️ I'm Arif</h1>
+<h1 align="center">Hi👋 I'm Arif</h1>
 <h3 align="center">web developer | I write UI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifimran5&label=Profile%20views&color=0e75b6&style=flat" alt="arifimran5" /> </p>
