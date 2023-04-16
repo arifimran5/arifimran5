@@ -7,6 +7,7 @@
 ### Tech stack I work with
 - [React](https://reactjs.org/)
 - [NextJS](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [NodeJS](https://nodejs.org/)
 - [Prisma](https://prisma.io/)
