@@ -11,8 +11,8 @@
 - [Typescript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [GoLang](https://go.dev/)
-- [Asp .Net Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
 - [NodeJS](https://nodejs.org/)
+- [Asp .Net Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
 
 ### Connect with Arif
 <p>
