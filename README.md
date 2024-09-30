@@ -2,7 +2,7 @@
 > /aa-r-ee-f/ 
 <p>Web Developer | Passionate for creating visually appealing user friendly web app</p>
 
-[thatarif](https://thatarif.in) - His personal Website
+[thatarif](https://thatarif.in) - His Personal Website
 
 ### Tech stack he works with
 - [React](https://reactjs.org/)
