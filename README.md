@@ -1,6 +1,6 @@
 ### Arif Imran
 > /aa-r-ee-f/ 
-<p>Web Developer | Passionate for creating visually appealing user friendly web app</p>
+<p>Backend developer with a side business of building interactive UIs. Clearly I am not a FullStack developer 😎.</p>
 
 [thatarif](https://thatarif.in) - His Personal Website
 
@@ -12,7 +12,7 @@
 - [TailwindCSS](https://tailwindcss.com/)
 - [GoLang](https://go.dev/)
 - [NodeJS](https://nodejs.org/)
-- [Asp .Net Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
+- [DotNet](https://dotnet.microsoft.com/en-us/)
 
 ### Connect with Arif
 <p>
