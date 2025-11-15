@@ -5,13 +5,12 @@
 [thatarif](https://thatarif.in) - His Personal Website
 
 ### Tech stack he works with
-- [React](https://reactjs.org/)
-- [Angular](https://angular.dev)
-- [NextJS](https://nextjs.org/)
-- [Typescript](https://www.typescriptlang.org/)
-- [TailwindCSS](https://tailwindcss.com/)
 - [GoLang](https://go.dev/)
 - [NodeJS](https://nodejs.org/)
+- [React](https://reactjs.org/)
+- [Angular](https://angular.dev)
+- [Typescript](https://www.typescriptlang.org/)
+- [TailwindCSS](https://tailwindcss.com/)
 - [DotNet](https://dotnet.microsoft.com/en-us/)
 
 ### Connect with Arif
